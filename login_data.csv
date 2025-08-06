@@ -1,0 +1,5 @@
+username,password,type
+Admin,admin123,valid
+invalidUser,invalidPass,invalid
+Admin,,empty
+
